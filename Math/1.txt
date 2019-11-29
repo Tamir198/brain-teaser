@@ -1,0 +1,43 @@
+	Given those conditions:
+
+	5	and	7	= 	18
+
+	9	and	2	= 	63
+
+	8	and	6	= 	18
+
+	5	and	1	= 	36
+
+	What is 9 	and 	4 ?
+
+
+
+***********************Answer***********************
+
+***********************Answer***********************
+
+***********************Answer***********************
+
+***********************Answer***********************
+
+***********************Answer***********************
+
+
+
+
+
+	The answer is 45.
+
+	How to solve this:
+
+	1)consider a,b numbers.
+
+	The trick here is to creat 2 new numbers - ab and ba.
+
+	2)The next step is to subtract the numbers like this:
+
+	Large number - small number = answer;
+
+	3)For 9 and 4 I will creat 2 numbers = 94 and 49 and subtract like this
+
+	94 - 49 = 45;
