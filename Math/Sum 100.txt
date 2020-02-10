@@ -1,0 +1,10 @@
+You need to put + or - signs anywhere between 123456789 (for example 123-456789) so that the the total sum will be100. 
+
+Hard - The order of the digits must not be changed.
+
+
+
+
+
+
+Solution for example : 1 + 2 + 3 - 4 + 5 + 6 + 78 + 9 = 100
