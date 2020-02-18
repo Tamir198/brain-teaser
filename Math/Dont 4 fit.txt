@@ -5,7 +5,23 @@ Given the digit 4 and any mathematic operation(For examlpe "!"  "-"   "+"  "*"  
 
 Create all numbers ranged 0 - 10 using the digit 4 four times, you must use 4 exactly four times, for example:
 
+
+
 0) - 4 + 4 - 4 - 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Solution:
