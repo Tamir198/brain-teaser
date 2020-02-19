@@ -1,0 +1,8 @@
+You need to use the digit 8 eight times to get the number 1,000 using "+" operator only
+
+
+
+******************************************Solution******************************************
+
+888 + 88 + 8 + 8 + 8 = 1000
+
