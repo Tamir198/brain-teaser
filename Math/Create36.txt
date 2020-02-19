@@ -1,0 +1,7 @@
+Can you make the number 36 using  9 2 6 3 5 2  (all of them need to be used)?
+
+
+
+Solution
+
+9*5 - 6 - 3 + 2 - 2 = 36
