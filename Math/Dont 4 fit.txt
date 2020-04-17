@@ -7,7 +7,7 @@ Create all numbers ranged 0 - 10 using the digit 4 four times, you must use 4 ex
 
 
 
-0) - 4 + 4 - 4 - 4
+0) 4 + 4 - 4 - 4
 
 
 
@@ -26,6 +26,7 @@ Create all numbers ranged 0 - 10 using the digit 4 four times, you must use 4 ex
 
 Solution:
 
+***********************************************Normal level************************************************************
 1)  (4/4) +4 -4 
 
 2)  (4*4) / (4* 4^0.5)
