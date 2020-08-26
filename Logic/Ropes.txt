@@ -12,9 +12,9 @@ The burning speed of the rope is inconsistent, and you want to know when 45 minu
 
 Take the first rope - set it on fire, when it is completely burned 30 minutes have passed.
 
-After that take your second rope, and light both  of his edges on fire - by doing that the rope will burn after 15 minuts.
+After that take your second rope, and light both edges on fire - by doing that the rope will burn after 15 minuts.
 
-Now that both of the ropes are burned it took 45 minuts tie in total. 
+Now  both of the ropes are burned and it took 45 minuts in total. 
 
 ********************************ANSWER********************************
 
